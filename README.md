@@ -23,14 +23,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="![walkthrough](https://user-images.githubusercontent.com/42887506/155924012-24f65f34-e05e-4f3b-946e-a57e27b72c35.gif)
-" width=250><br>
+
+<img src="walkthrough.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+1. I am still working with the bonus stories.
 
 ### Open-source libraries used
 
